@@ -1,0 +1,23 @@
+{
+  "ids": {
+    "User": 3,
+    "AccessToken": 1,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "Category": 1,
+    "Sub-category": 1
+  },
+  "models": {
+    "User": {
+      "1": "{\"username\":\"User 1\",\"password\":\"$2a$10$5mdfxBnr9YDURhOohjM.iO175XgNXelP.3kyN50YGwN/iSE7RlHxu\",\"email\":\"user1@quaero.com\",\"id\":1}",
+      "2": "{\"username\":\"User 2\",\"password\":\"$2a$10$aLYbkFoJUU1l0ZEM5IFAuOMl2NkUC.dCT8cAqwZJygrRGs3LQQWxK\",\"email\":\"user2@quaero.com\",\"id\":2}"
+    },
+    "AccessToken": {},
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "Category": {},
+    "Sub-category": {}
+  }
+}
