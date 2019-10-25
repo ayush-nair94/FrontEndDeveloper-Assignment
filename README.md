@@ -75,7 +75,7 @@ Here is the list of category and their Sub-category types:
 
 ```
 
-If you have any further questions or if you want to apply for this test just drop a mail at  and we will help you, but don't forget to add you github handle, skypeId and stack overflow account in the mail. 
+If you have any further questions just drop a mail at indiahr@quaero.com and we will help you.
 
 
 
