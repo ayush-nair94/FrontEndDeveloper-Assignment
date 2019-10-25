@@ -1,6 +1,6 @@
 # Frontend Developer Project
 
-This project is a demo project setup for candidates who are applying for frontend UI/UX developer role at [Quaero 3 India]. Please clone this project and follow the steps mentioned in the test shared with you. 
+This project is a demo project setup for candidates who are applying for frontend UI/UX developer role at [Quaero 3 India](www.quaero.com). Please clone this project and follow the steps mentioned in the test shared with you. 
 
 
 ### How to run this?
